@@ -1,0 +1,74 @@
+/* copyright
+SPDX-FileCopyrightText: © 2022 DeEsperanza
+SPDX-License-Identifier: BSD-3-Clause
+*/
+
+#tema {
+    text-align: center;
+}
+
+ul {list-style-type:none;}
+
+#item { 
+    display: inline;
+    font-size: 16px;
+    /* li요소의 좌측에 1px 테두리 만들기 */
+    border-left: 1px solid #c0c0c0;
+    /* 테두리와 글자의 간격 벌리기, padding: 위 오 아래 왼 */
+    padding: 0px 10px 0px 10px;
+    margin: 5px 0px 5px 0px;
+}
+#item:first-child {
+    border-left: none;
+}
+
+#mContainer {
+    margin: 10px auto;
+    padding: 10px 10px 0px 10px;
+}
+#mHeader {
+    text-align: center;
+    padding: 7px;
+    margin-bottom: 10px;
+    border: 1px solid;
+}
+#mContent {
+    min-height: 500px;
+    padding: 10px;
+    border-top: 1px solid #c0c0c0;
+    border-bottom: 2px solid #c0c0c0;
+}
+#mFooter {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 12px;
+    text-align: center;
+}
+@media ( min-width: 600px ) {
+    #item {
+        font-size: 20px;
+    }
+    #item { 
+        /* 테두리와 글자의 간격 벌리기, padding: 위 오 아래 왼 */
+        padding: 0px 15px 0px 15px;
+    }
+    #mContainer {
+        width: 900px;
+        margin: 10px auto;
+        padding: 20px 20px 0px 20px;
+        border: 1.5px solid;
+    }
+    #mHeader {
+        padding: 20px;
+        margin-bottom: 20px;
+        border: 1px solid;
+    }
+    #mContent {
+        min-height: 900px;
+        padding: 20px;
+        border: 1px solid;
+    }
+    #mFooter {
+        font-size: 15px;
+    }
+}
