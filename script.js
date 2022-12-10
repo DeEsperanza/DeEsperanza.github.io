@@ -1,2 +1,8 @@
-document.getElementById('mContent').innerHTML =
-      marked.parse('# Marked in browser\n\nRendered by **marked**.');
+/**
+* copyright
+* SPDX-FileCopyrightText: © 2022 DeEsperanza
+* SPDX-License-Identifier: BSD-3-Clause
+*/
+
+document.getElementById('home').innerHTML =
+      marked.parse('# Bienvenid@s');

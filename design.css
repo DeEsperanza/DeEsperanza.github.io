@@ -4,6 +4,11 @@
 * SPDX-License-Identifier: BSD-3-Clause
 */
 
+a:link, a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+    
 #subject {
     text-align: center;
     border-bottom: 1px solid #c0c0c0;
@@ -41,6 +46,12 @@ ul {list-style-type:none;}
     padding: 5px 10px 5px 10px;
 }
 
+#home {
+    text-align: center;
+    min-height: 700px;
+    padding: 5px 10px 5px 10px;
+}
+
 #mFooter {
     margin-top: 5px;
     margin-bottom: 5px;
@@ -49,7 +60,7 @@ ul {list-style-type:none;}
     border-top: 2px solid #c0c0c0;
 }
 
-@media ( min-width: 1200px ) {
+@media ( min-width: 600px ) {
     #item {
         font-size: 20px;
         /* 테두리와 글자의 간격 벌리기, padding: 위 오 아래 왼 */
