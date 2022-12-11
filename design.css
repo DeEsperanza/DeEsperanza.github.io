@@ -19,9 +19,10 @@ ul {list-style-type:none;}
 #item { 
     display: inline;
     font-size: 16px;
-    /* li요소의 좌측에 1px 테두리 만들기 */
+    /* li요소의 좌측에 1px 테두리 만들기 
     border-left: 1px solid #c0c0c0;
-    /* 테두리와 글자의 간격 벌리기, padding: 위 오 아래 왼 */
+    테두리와 글자의 간격 벌리기, padding: 위 오 아래 왼 
+    */
     padding: 0px 10px 0px 10px;
     margin: 5px 0px 5px 0px;
 }
@@ -36,9 +37,9 @@ ul {list-style-type:none;}
 
 #mHeader {
     height: 50px;
-    text-align: center;
     padding: 1px 1px 5px 1px;
     margin-bottom: 0px;
+    text-align: center;
 }
 
 #list {
@@ -49,7 +50,7 @@ ul {list-style-type:none;}
     text-align: center;
 }
 
-#mContent {
+article {
     min-height: 700px;
     padding: 5px 10px 5px 10px;
     font-family:'Times New Roman', Times, serif;
@@ -57,10 +58,11 @@ ul {list-style-type:none;}
 }
 
 #home {
-    text-align: center;
     min-height: 700px;
-    font-family:'Times New Roman', Times, serif;
     padding: 5px 10px 5px 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 200%;
+    text-align: center;
 }
 
 #mFooter {
@@ -89,7 +91,15 @@ ul {list-style-type:none;}
         margin-bottom: 10px;
     }
 
-    #mContent {
+    #list {
+        text-align: center;
+        max-width: 900px;
+        margin: 0 auto;
+        min-height: 900px;
+        padding: 20px;
+    }
+
+    article {
         max-width: 900px;
         margin: 0 auto;
         min-height: 900px;
