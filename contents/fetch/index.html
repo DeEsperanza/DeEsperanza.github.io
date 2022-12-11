@@ -21,6 +21,7 @@
   </body>
   <script>
     const myArticle = document.querySelector("article");
+    /*
     const myLinks = document.querySelectorAll("ul a");
     for (const link of myLinks) {
       link.onclick = (e) => {
@@ -29,10 +30,12 @@
         getData(linkData);
       };
     }
+    */
+    getData();
 
-    function getData(pageId) {
-      console.log(pageId);
-      const myRequest = new Request(`${pageId}.txt`);
+    function getData() {
+      console.log("page1");
+      const myRequest = new Request(`page1.txt`);
 
       fetch(myRequest)
         .then((response) => {
