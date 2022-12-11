@@ -32,7 +32,7 @@
 
     function getData(pageId) {
       console.log(pageId);
-      const myRequest = new Request('${pageId}.txt');
+      const myRequest = new Request(`${pageId}.txt`);
 
       fetch(myRequest)
         .then((response) => {
