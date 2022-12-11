@@ -41,6 +41,14 @@ ul {list-style-type:none;}
     margin-bottom: 0px;
 }
 
+#list {
+    min-height: 700px;
+    padding: 5px 10px 5px 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 130%;
+    text-align: center;
+}
+
 #mContent {
     min-height: 700px;
     padding: 5px 10px 5px 10px;
@@ -51,6 +59,7 @@ ul {list-style-type:none;}
 #home {
     text-align: center;
     min-height: 700px;
+    font-family:'Times New Roman', Times, serif;
     padding: 5px 10px 5px 10px;
 }
 
