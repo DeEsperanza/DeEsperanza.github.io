@@ -44,6 +44,8 @@ ul {list-style-type:none;}
 #mContent {
     min-height: 700px;
     padding: 5px 10px 5px 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 130%;
 }
 
 #home {
