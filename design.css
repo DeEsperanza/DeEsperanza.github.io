@@ -18,7 +18,7 @@ ul {list-style-type:none;}
 
 #item { 
     display: inline;
-    font-size: 16px;
+    font-size: 20px;
     /* li요소의 좌측에 1px 테두리 만들기 
     border-left: 1px solid #c0c0c0;
     테두리와 글자의 간격 벌리기, padding: 위 오 아래 왼 
