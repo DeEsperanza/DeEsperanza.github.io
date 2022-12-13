@@ -4,57 +4,26 @@
 * SPDX-License-Identifier: BSD-3-Clause
 */
 
+body {
+    background-color: #ffe7ca
+}
+
 a:link, a:visited {
     color: #000000;
     text-decoration: none;
 }
-    
-#subject {
-    text-align: center;
-    border-bottom: 1px solid #c0c0c0;
-}
-
-ul {list-style-type:none;}
-
-#item { 
-    display: inline;
-    font-size: 20px;
-    /* li요소의 좌측에 1px 테두리 만들기 
-    border-left: 1px solid #c0c0c0;
-    테두리와 글자의 간격 벌리기, padding: 위 오 아래 왼 
-    */
-    padding: 0px 10px 0px 10px;
-    margin: 5px 0px 5px 0px;
-}
-#item:first-child {
-    border-left: none;
-}
 
 #mContainer {
     margin: 10px auto;
+    /* 테두리와 글자의 간격 벌리기, padding: 위 오 아래 왼 */
     padding: 0px 10px 0px 10px;
 }
 
 #mHeader {
     height: 50px;
     padding: 1px 1px 5px 1px;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
     text-align: center;
-}
-
-#list {
-    min-height: 700px;
-    padding: 5px 10px 5px 10px;
-    font-family:'Times New Roman', Times, serif;
-    font-size: 130%;
-    text-align: center;
-}
-
-article {
-    min-height: 700px;
-    padding: 5px 10px 5px 10px;
-    font-family:'Times New Roman', Times, serif;
-    font-size: 130%;
 }
 
 #home {
@@ -65,19 +34,66 @@ article {
     text-align: center;
 }
 
+#subject {
+    border-bottom: 1px solid #000000;
+}
+
+ul {
+    list-style-type:none;
+    text-align: center;
+    padding: 0px 9px 0px 0px;
+}
+
+#item { 
+    display: inline;
+    font-size: 20px;
+    /* 
+    * li요소의 좌측에 1px 테두리 만들기 
+    * border-left: 1px solid #c0c0c0;
+    */
+    margin: 5px 0px 5px 15px;
+}
+
+#item:first-child {
+    margin: 5px 0px 5px 0px;
+}
+
+#item:hover {
+    border-top: 2px solid;
+}
+
+#list {
+    min-height: 700px;
+    padding: 5px 10px 5px 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 130%;
+    text-align: center;
+}
+
+#list:hover {
+    color: #714208
+}
+
+article {
+    min-height: 700px;
+    padding: 5px 10px 5px 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 130%;
+}
+
+
+
 #mFooter {
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size: 12px;
+    font-size: 13px;
     text-align: center;
-    border-top: 2px solid #c0c0c0;
+    border-top: 2px solid #714208;
 }
 
 @media ( min-width: 600px ) {
     #item {
         font-size: 20px;
-        /* 테두리와 글자의 간격 벌리기, padding: 위 오 아래 왼 */
-        padding: 0px 15px 0px 15px;
     }
 
     #mContainer {
@@ -88,7 +104,7 @@ article {
     #mHeader {
         height: 70px;
         padding: 5px;
-        margin-bottom: 10px;
+        margin-bottom: 7px;
     }
 
     #list {
@@ -107,7 +123,6 @@ article {
     }
 
     #mFooter {
-        border-top: 2px solid #c0c0c0;
         font-size: 15px;
     }
 }
