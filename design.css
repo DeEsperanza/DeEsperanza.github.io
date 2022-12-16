@@ -5,7 +5,7 @@
 */
 
 body {
-    background-color: #ffe7ca
+    background-color: #ffe4af
 }
 
 a:link, a:visited {
@@ -35,7 +35,7 @@ a:link, a:visited {
 }
 
 #subject {
-    border-bottom: 1px solid #000000;
+    border-bottom: 1px solid #977c5a;
 }
 
 ul {
@@ -71,7 +71,7 @@ ul {
 }
 
 #list:hover {
-    color: #714208
+    color: #8e6533
 }
 
 article {
@@ -88,7 +88,7 @@ article {
     margin-bottom: 5px;
     font-size: 13px;
     text-align: center;
-    border-top: 2px solid #714208;
+    border-top: 2px solid #977c5a;
 }
 
 @media ( min-width: 600px ) {
