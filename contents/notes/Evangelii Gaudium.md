@@ -13,3 +13,12 @@ Cada cristiano y cada comunidad discernirá cuál es el camino que el Señor 
 
 ### n.24
 La comunidad evangelizadora se mete con obras y gestos en la vida cotidiana de los demás, achica distancias, se abaja hasta la humillación si es necesario, y asume la vida humana, tocando la carne sufriente de Cristo en el pueblo. Los evangelizadores tienen así «olor a oveja» y éstas escuchan su voz. Luego, la comunidad evangelizadora se dispone a «acompañar». Acompaña a la humanidad en todos sus procesos, por más duros y prolongados que sean. Sabe de esperas largas y de aguante apostólico. La evangelización tiene mucho de paciencia, y evita maltratar límites.
+
+### n.24
+La evangelización tiene mucho de paciencia, y evita maltratar límites. Fiel al don del Señor, también sabe «fructificar». 
+
+### n.25
+Ya no nos sirve «simple administración». Constituyámonos en todas las regiones de la tierra en un «estado permanente de misión».
+
+### n.33
+Invito a todos a ser audaces y creativos en esta tarea de repensar los objectivos, las estructuras, el estilo y los métodos evangelizadores de las propias comunidades. Una postulación de los fines sin una adecuada búsqueda comunitaria de los medios para alcanzarlos está condenada a convertirse en mera fantasía.
