@@ -22,3 +22,10 @@ Ya no nos sirve «simple administración». Constituyámonos en todas las region
 
 ### n.33
 Invito a todos a ser audaces y creativos en esta tarea de repensar los objectivos, las estructuras, el estilo y los métodos evangelizadores de las propias comunidades. Una postulación de los fines sin una adecuada búsqueda comunitaria de los medios para alcanzarlos está condenada a convertirse en mera fantasía.
+
+### n.34
+Entoncces conviene ser realistas y no dar por supuesto que nuestros interlocutores conocen el trasfondo completo de lo que decimos o que pueden conectar nuestro discurso con el núcleo esencial del Evangelio que le otorga sentido, hermosura y atractivo.
+
+### n.37
+"La principalidad de la ley nueva está en la gracia del Espíritu Santo, que se manifiesta en la fe que obra por el amor." Por ello explica que, en cuanto al obrar exterior, la misericordia es la mayor de todas las virtudes.
+
