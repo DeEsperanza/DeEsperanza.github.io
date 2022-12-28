@@ -29,3 +29,8 @@ Entoncces conviene ser realistas y no dar por supuesto que nuestros interlocutor
 ### n.37
 "La principalidad de la ley nueva está en la gracia del Espíritu Santo, que se manifiesta en la fe que obra por el amor." Por ello explica que, en cuanto al obrar exterior, la misericordia es la mayor de todas las virtudes.
 
+### n.41
+Al mismo tiempo, los enormes y veloces cambios culturales requieren que prestemos una constante atención para intentar expresar las verdades de siempre en un lenguaje que permita advertir su permanente novedad.
+
+### n.42
+De cualquier modo, nunca podremos convertir las enseñanzas de la Iglesia en algo fácilmente comprendido y felizmente valorado por todos. La fe siempre conserva un aspecto de cruz, alguna oscuridad que no le quita la firmeza de su adhesión.
