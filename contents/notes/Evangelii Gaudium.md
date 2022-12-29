@@ -34,3 +34,6 @@ Al mismo tiempo, los enormes y veloces cambios culturales requieren que prestemo
 
 ### n.42
 De cualquier modo, nunca podremos convertir las enseñanzas de la Iglesia en algo fácilmente comprendido y felizmente valorado por todos. La fe siempre conserva un aspecto de cruz, alguna oscuridad que no le quita la firmeza de su adhesión.
+
+### n.45
+Vemos así que la tarea evangelizadora se mueve entre los límites del lenguaje y de las circunstancias. Procura siempre comunicar mejor la verdad del Evangelio en un contexto determinado, sin renunciar a la verdad, al bien y a la luz que pueda aportar cuando la perfección no es posible. Un corazón misionero sabe de sos límites y se hace «débil con los débiles [...] todo para todos»(1 Co 9,22). Nunca se encierra, nunca se repliega en sus seguridades, nunca opta por la rigidez autodefensiva. Sabe que él mismo tiene que crecer en la comprensión del Evangelio y en el discernimiento de los senderos del Espíritu, y entonces no renuncia al bien posible, aunque corra el riesgo de mancharse con el barro del camino.
