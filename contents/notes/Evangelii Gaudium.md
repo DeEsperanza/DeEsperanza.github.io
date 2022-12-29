@@ -37,3 +37,7 @@ De cualquier modo, nunca podremos convertir las enseñanzas de la Iglesia en alg
 
 ### n.45
 Vemos así que la tarea evangelizadora se mueve entre los límites del lenguaje y de las circunstancias. Procura siempre comunicar mejor la verdad del Evangelio en un contexto determinado, sin renunciar a la verdad, al bien y a la luz que pueda aportar cuando la perfección no es posible. Un corazón misionero sabe de sos límites y se hace «débil con los débiles [...] todo para todos»(1 Co 9,22). Nunca se encierra, nunca se repliega en sus seguridades, nunca opta por la rigidez autodefensiva. Sabe que él mismo tiene que crecer en la comprensión del Evangelio y en el discernimiento de los senderos del Espíritu, y entonces no renuncia al bien posible, aunque corra el riesgo de mancharse con el barro del camino.
+
+### n.46
+La Iglesia «en salida» es una Iglesia con las puertas abiertas. Salir hacia los demás para llegar a las periferias humanas no implica correr hacia el mundo sin rumbo y sin sentido. Muchas veces es más bien detener el paso, dejar de lado la ansiedad para mirar a los ojos y escuchar, o renunciar a las urgencias para acompañar al que se quedó al costado del camino. A veces es como el padre del hijo pródigo, que se queda con las puertas abiertas para que, cuando regrese, pueda entrar sin dificultad.
+
