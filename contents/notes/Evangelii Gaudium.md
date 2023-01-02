@@ -41,3 +41,8 @@ Vemos así que la tarea evangelizadora se mueve entre los límites del lenguaje 
 ### n.46
 La Iglesia «en salida» es una Iglesia con las puertas abiertas. Salir hacia los demás para llegar a las periferias humanas no implica correr hacia el mundo sin rumbo y sin sentido. Muchas veces es más bien detener el paso, dejar de lado la ansiedad para mirar a los ojos y escuchar, o renunciar a las urgencias para acompañar al que se quedó al costado del camino. A veces es como el padre del hijo pródigo, que se queda con las puertas abiertas para que, cuando regrese, pueda entrar sin dificultad.
 
+### n.49
+Prefiero una Iglesia accidentada, herida y manchada por salir a la calle, antes que una Iglesia enferma por el encierro y la comodidad de aferrarse a las propias seguridades.
+
+### n.53
+Así como el mandamiento de «no matar» pone un límite claro para asegurar el valor de la vida humana, hoy tenemos que decir «no a una economía de la exclusión y la inequidad». Esa ecconomía mata.
